@@ -14,10 +14,8 @@ Chrome driver in `fastmonkey/chromedriver_win32`. Just take note that only the d
 Chrome v99 was tested.
 
 ## How to run.
-```
-cd fastmonkey
-python fastmonkey
-```
+In the _fastmonkey_ directory, run `python fastmonkey.py`.
+
 **Important Note:** Since the program performs keyboard input by itself, do not touch 
 your mouse and keyboard while it is running. For precaution, wait for a minimum of
 five seconds after the program ended before touching your mouse and keyboard again.
