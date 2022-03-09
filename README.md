@@ -10,8 +10,8 @@ python -m pip install -r requirements.txt
 Note that this script is only compatible with Chrome v99. If you want to run this
 in a specific version of Chrome, download its respective Chrome driver 
 [here](https://chromedriver.storage.googleapis.com/index.html) and replace the existing
-Chrome driver in `fastmonkey/chromedriver_win32`. Just know that other versions
-beside the Chrome driver for Chrome v99 was tested.
+Chrome driver in `fastmonkey/chromedriver_win32`. Just take note that only the driver for
+Chrome v99 was tested.
 
 ## How to run.
 ```
